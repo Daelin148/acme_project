@@ -1,9 +1,6 @@
 from datetime import date
 
 
-from datetime import date
-
-
 def calculate_birthday_countdown(birthday):
     """
     Возвращает количество дней до следующего дня рождения.
